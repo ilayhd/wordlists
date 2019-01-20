@@ -1,1 +1,1 @@
-# wordlists
+# wordlists for various services
